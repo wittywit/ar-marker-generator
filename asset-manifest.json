@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ar-marker-generator/static/css/main.7f5837ec.css",
+    "main.js": "/ar-marker-generator/static/js/main.737917f2.js",
+    "static/js/453.79d05dfb.chunk.js": "/ar-marker-generator/static/js/453.79d05dfb.chunk.js",
+    "index.html": "/ar-marker-generator/index.html",
+    "main.7f5837ec.css.map": "/ar-marker-generator/static/css/main.7f5837ec.css.map",
+    "main.737917f2.js.map": "/ar-marker-generator/static/js/main.737917f2.js.map",
+    "453.79d05dfb.chunk.js.map": "/ar-marker-generator/static/js/453.79d05dfb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f5837ec.css",
+    "static/js/main.737917f2.js"
+  ]
+}
